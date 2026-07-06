@@ -1,0 +1,3 @@
+C:/Users/ztech.pk/Desktop/daily task day 2/build/CMakeFiles/LinkedListProject.dir
+C:/Users/ztech.pk/Desktop/daily task day 2/build/CMakeFiles/edit_cache.dir
+C:/Users/ztech.pk/Desktop/daily task day 2/build/CMakeFiles/rebuild_cache.dir

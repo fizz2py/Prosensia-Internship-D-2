@@ -1,0 +1,5 @@
+# ninja log v7
+5	1136	8050242752033142	CMakeFiles/LinkedListProject.dir/main.cpp.obj	4e886cc364949b0e
+19	1143	8050242752171503	CMakeFiles/LinkedListProject.dir/NodeObserver.cpp.obj	12bd1e829bec136e
+13	1152	8050242752113101	CMakeFiles/LinkedListProject.dir/LinkedList.cpp.obj	4c31d31a3ffc01a9
+1152	1295	8050242763509962	LinkedListProject.exe	37646704ad1728f6
