@@ -72,12 +72,6 @@ This project was developed to practice:
 - Modular programming
 - Object-Oriented Programming principles
 
-## Author
-
-**Behlol Khan**
-
-Registration No: **B25F2498AI242**
-
 ## Repository
 
 Prosensia Internship - Day 2
